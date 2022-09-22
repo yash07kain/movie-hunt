@@ -1,4 +1,4 @@
-# Movie-search
+# Movie-Hunt
 ---------------
 This project will list the movie based on year and show their details on click.
 On clicking movie poster on detail page will show you the trailer of the movie.
