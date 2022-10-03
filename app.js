@@ -5,8 +5,8 @@ var router = express.Router();
 var config=require('./config/config');
 
 var log4js = require('log4js'); 
-log4js.loadAppender('file');
-log4js.addAppender(log4js.appenders.file(__dirname+'/logs/application.logs'), 'app.js');
+//log4js.loadAppender('file');
+//log4js.addAppender(log4js.appenders.file(__dirname+'/logs/application.logs'), 'app.js');
 var logger = log4js.getLogger('app.js');
 
 app.use(function(req, res, next) {
