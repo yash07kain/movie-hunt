@@ -44,4 +44,3 @@ On the search bar
 > click on any movie on the list to show the details.
 
 > click on movie poster to watch the trailer of the movie.
-Yash testing...(Neha)
