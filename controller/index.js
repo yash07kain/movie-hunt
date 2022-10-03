@@ -2,8 +2,8 @@ var express = require('express')
 var router = express.Router()
 
 var log4js = require('log4js'); 
-log4js.loadAppender('file');
-log4js.addAppender(log4js.appenders.file(__dirname+'/../logs/application.logs'), 'index.js');
+//log4js.loadAppender('file');
+//log4js.addAppender(log4js.appenders.file(__dirname+'/../logs/application.logs'), 'index.js');
 var logger = log4js.getLogger('index.js');
 
 var path = require('path');
