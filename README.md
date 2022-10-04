@@ -44,4 +44,4 @@ On the search bar:
 
 > Click on any movie from the list to show the details.
 
-> click on movie poster to watch the trailer of the movie.
+> Click on movie poster to watch the trailer of the movie.
