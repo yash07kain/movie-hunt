@@ -34,13 +34,14 @@ Online hosted
 How to use
 -----------------
 
-On the search bar
-> write the year 
+On the search bar:
 
-> click on search icon
+> Enter the year.
 
-> use next and previous to show more movies.
+> Click on search icon.
 
-> click on any movie on the list to show the details.
+> Use next and previous panes  to show more movies.
+
+> Click on any movie from the list to show the details.
 
 > click on movie poster to watch the trailer of the movie.
